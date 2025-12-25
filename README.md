@@ -54,11 +54,10 @@ I’m always curious about new technologies, best practices, and writing code th
 
 ## 🤝 Let’s Connect
 
-🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-username)  
-📧 yourname@example.com  
-🌐 [Portfolio](https://your-portfolio-link.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/shreyansh-patel-170902204/
+- 📧 **Email:** shreyanshrpatel123@gmail.com
+- 🌐 **Portfolio:** https://shreyansh-portfolio-site.vercel.app/
   
-
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to check out my repositories and drop a star if you find something useful.*
