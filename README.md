@@ -56,7 +56,7 @@ I’m always curious about new technologies, best practices, and writing code th
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shreyansh-patel-170902204/
 - 📧 **Email:** shreyanshrpatel123@gmail.com
-- 🌐 **Portfolio:** https://shreyansh-portfolio-site.vercel.app/
+- 🌐 **Portfolio:** https://shcodes.in/
   
 ---
 
