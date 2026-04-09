@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shreyansh
 
 🚀 **Software Developer | Shopware 6 Specialist**  
-💼 2.5+ years of professional experience
+💼 3+ years of professional experience
 
 ---
 
