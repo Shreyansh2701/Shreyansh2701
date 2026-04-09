@@ -17,19 +17,21 @@ I’m always curious about new technologies, best practices, and writing code th
 
 ### Backend
 - PHP  
-- Symfony  
-- Shopware 6  
+- Symfony    
 - Node.js  
 - Express.js  
 
 ### Frontend
+- Twig
 - Vue.js  
 - HTML5 / CSS3 / JavaScript  
 
 ### Database
-- MySQL  
+- MySQL
+- Postgres
 
 ### Other
+- Shopware 6
 - REST APIs  
 - Git & GitHub  
 - MVC Architecture  
